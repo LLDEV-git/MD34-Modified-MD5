@@ -1,1 +1,2 @@
 This a .so binary, you can upload this in termux (move in bin)
+The libmd34.so library in this repository is 100% safe. It is just a pre-compiled version of the md34[Open-Source].cpp file, created for your convenience so you can quickly use it in Termux.There are no hidden modifications or tracking code inside. If you don't want to download the ready-made .so file, you can always check the open source .cpp code and compile it yourself
